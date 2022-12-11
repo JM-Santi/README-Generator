@@ -18,6 +18,9 @@
  
  ## Usage
  Once you have installed npm, write node index.js in the command line the questions should come after. Once the Questions are finished it will generate a README and place it inside that same folder you downloaded.
+ 
+ ![Untitled design](https://user-images.githubusercontent.com/113136342/206883690-0777ca18-b808-41c0-9b78-bd8b2554a5a7.gif)
+
 
  ## License
  MIT License
