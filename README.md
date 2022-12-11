@@ -1,4 +1,4 @@
-# Profesional README Generator 
+# Profesional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
  ## Description
  An application that makes the process of writing READMEs easier by using the terminal and asking you questions so it can create a README for you.
